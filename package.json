@@ -1,5 +1,5 @@
 {
-  "name": "webapi-ii-guided-project",
+  "name": "y",
   "version": "1.0.0",
   "description": "Guided project for **Web API II** Module",
   "main": "index.js",
@@ -29,5 +29,6 @@
     "express": "^4.17.1",
     "knex": "^0.18.3",
     "sqlite3": "^4.0.9"
-  }
+  },
+  "license": "ISC"
 }
